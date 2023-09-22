@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: rgb(249, 246, 246);
+    font-size: 80px;
+}
+
+form{
+    margin: 50px;
+    border: solid 3px rgb(27, 26, 26);
+    padding: 10px;
+    background-color: rgb(197, 197, 197);
+}
+
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+/*  .nomClasse{} ou #nomID{} */
